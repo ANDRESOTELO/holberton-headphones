@@ -259,8 +259,8 @@ input.open-menu {
 }
 
 @keyframes category-animation {
-    0%    {background-color:var(--color-white); margin:0px 0px; border-radius: 10px;}
-    100%      {background-color: var(--color-red); margin:0px 50px; border-radius: 10px;}
+    0%    {background-color:var(--color-white); border-radius: 0px;}
+    100%      {background-color: var(--color-red); border-radius: 30px;}
 }
 
 .category-icon {
